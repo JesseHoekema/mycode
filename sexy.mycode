@@ -1,0 +1,8 @@
+SAY 1 "Welkom op mijn website!"
+SAY 2 "Dit is een subtitel"
+SAY 3 "Sectie 1"
+SAY 6 "Sectie 1"
+BUTTON "Klik hier" LINK "https://www.example.com"
+BUTTON "Klik hier" LINK "https://www.example.com"
+TYPE "Vul je naam in"
+TYPE "Vul je email in"
